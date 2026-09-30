@@ -1,0 +1,10 @@
+*.exe binary
+*.dll binary
+*.apk binary
+*.xlsx binary
+*.docx binary
+*.bin binary
+*.pdf binary
+*.jpeg binary
+*.jpg binary
+*.png binary
